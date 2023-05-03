@@ -1,0 +1,6 @@
+3.05.2023 13:03:37 --> 10000001 --> Giriş işlemi başarılı...
+3.05.2023 13:03:41 --> 10000001 --> Para çekme işlemi başarılı! Toplam bakiyeniz : 24460 TL
+3.05.2023 13:03:46 --> 10000001 --> 24460 TL bakiyeniz bulunmaktadır.
+3.05.2023 13:03:59 --> 10000001 --> 10000003 numaralı hesaba para gönderme işleminiz başarılı...Kalan bakiyeniz: 19460 TL
+3.05.2023 13:04:02 --> 10000001 --> 24460 TL bakiyeniz bulunmaktadır.
+3.05.2023 13:04:12 --> 10000001 --> 24460 TL bakiyeniz bulunmaktadır.
